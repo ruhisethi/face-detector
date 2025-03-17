@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "file": "static/js/594.ff482cef.chunk.js",
+  "mappings": "uJAIe,SAASA,IACpB,MAAM,IAAEC,IAAQC,EAAAA,EAAAA,MAChB,OACIC,EAAAA,EAAAA,KAAAC,EAAAA,SAAA,CAAAC,SACKJ,IACGK,EAAAA,EAAAA,MAAA,OAAKC,UAAW,SAAWN,EAAIO,KAAKH,SAAA,CAEf,YAAbJ,EAAIO,MACAL,EAAAA,EAAAA,KAAA,QAAMM,KAAK,MAAM,aAAW,UAASJ,SAAC,YAEtCF,EAAAA,EAAAA,KAAA,QAAMM,KAAK,MAAM,aAAW,SAAQJ,SAAC,YAG7CF,EAAAA,EAAAA,KAAA,KAAAE,SAAIJ,EAAIS,cAK5B,C",
+  "sources": [
+    "components/ErrorHandler.jsx"
+  ],
+  "sourcesContent": [
+    "import React from 'react';\r\nimport { useAppContext } from '../configs/AppContext';\r\nimport '../styles/Error.css';\r\n\r\nexport default function ErrorHandler() {\r\n    const { err } = useAppContext();\r\n    return (\r\n        <>\r\n            {err && (\r\n                <div className={\"error \" + err.type}>\r\n                    {\r\n                        err.type === \"success\" ? (\r\n                            <span role=\"img\" aria-label=\"success\">✅</span>\r\n                        ) : (\r\n                            <span role=\"img\" aria-label=\"danger\">❌</span>\r\n                        )\r\n                    }\r\n                    <p>{err.message}</p>\r\n                </div>\r\n            )}\r\n        </>\r\n    );\r\n}"
+  ],
+  "names": [
+    "ErrorHandler",
+    "err",
+    "useAppContext",
+    "_jsx",
+    "_Fragment",
+    "children",
+    "_jsxs",
+    "className",
+    "type",
+    "role",
+    "message"
+  ],
+  "sourceRoot": ""
+}

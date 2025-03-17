@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6e28f4c.css",
+    "main.js": "/static/js/main.06ffd57e.js",
+    "static/js/294.3f4e7674.chunk.js": "/static/js/294.3f4e7674.chunk.js",
+    "static/js/832.714382ee.chunk.js": "/static/js/832.714382ee.chunk.js",
+    "static/css/471.b85dc1ea.chunk.css": "/static/css/471.b85dc1ea.chunk.css",
+    "static/js/471.4622abba.chunk.js": "/static/js/471.4622abba.chunk.js",
+    "static/css/602.f04a4e0e.chunk.css": "/static/css/602.f04a4e0e.chunk.css",
+    "static/js/602.f3d228a2.chunk.js": "/static/js/602.f3d228a2.chunk.js",
+    "static/css/687.36230c7a.chunk.css": "/static/css/687.36230c7a.chunk.css",
+    "static/js/687.53ff51d3.chunk.js": "/static/js/687.53ff51d3.chunk.js",
+    "static/css/594.78851bad.chunk.css": "/static/css/594.78851bad.chunk.css",
+    "static/js/594.ff482cef.chunk.js": "/static/js/594.ff482cef.chunk.js",
+    "static/js/493.cfd28731.chunk.js": "/static/js/493.cfd28731.chunk.js",
+    "index.html": "/index.html",
+    "main.a6e28f4c.css.map": "/static/css/main.a6e28f4c.css.map",
+    "main.06ffd57e.js.map": "/static/js/main.06ffd57e.js.map",
+    "294.3f4e7674.chunk.js.map": "/static/js/294.3f4e7674.chunk.js.map",
+    "832.714382ee.chunk.js.map": "/static/js/832.714382ee.chunk.js.map",
+    "471.b85dc1ea.chunk.css.map": "/static/css/471.b85dc1ea.chunk.css.map",
+    "471.4622abba.chunk.js.map": "/static/js/471.4622abba.chunk.js.map",
+    "602.f04a4e0e.chunk.css.map": "/static/css/602.f04a4e0e.chunk.css.map",
+    "602.f3d228a2.chunk.js.map": "/static/js/602.f3d228a2.chunk.js.map",
+    "687.36230c7a.chunk.css.map": "/static/css/687.36230c7a.chunk.css.map",
+    "687.53ff51d3.chunk.js.map": "/static/js/687.53ff51d3.chunk.js.map",
+    "594.78851bad.chunk.css.map": "/static/css/594.78851bad.chunk.css.map",
+    "594.ff482cef.chunk.js.map": "/static/js/594.ff482cef.chunk.js.map",
+    "493.cfd28731.chunk.js.map": "/static/js/493.cfd28731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6e28f4c.css",
+    "static/js/main.06ffd57e.js"
+  ]
+}
